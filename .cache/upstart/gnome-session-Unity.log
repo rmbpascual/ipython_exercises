@@ -1,0 +1,55 @@
+WARN  2015-02-12 22:03:52 unity.dash.view DashView.cpp:1263 Search failed  ''=> Timed out waiting for scope proxy connection
+WARN  2015-02-12 22:03:52 unity.dash.scopeproxy ScopeProxy.cpp:516 Could not search '' on home.scope => Timed out waiting for scope proxy connection
+WARN  2015-02-12 22:03:54 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+WARN  2015-02-12 22:04:05 unity.iconloader IconLoader.cpp:755 Unable to load icon https://3rdpartymedia.ubuntuone.com/7digital/static/img/sleeveart/00/002/076/0000207636_350.jpg at size 92x96: HTTP Error: Proxy Error
+WARN  2015-02-12 22:04:05 unity.iconloader IconLoader.cpp:755 Unable to load icon . UnityProtocolAnnotatedIcon %7B'base-icon':%20%3C'https://3rdpartymedia.ubuntuone.com/7digital/static/img/sleeveart/00/002/076/0000207636_350.jpg'%3E,%20'category':%20%3Cuint32%203%3E,%20'ribbon':%20%3C'£7.92'%3E%7D at size 96x96: 
+
+(gnome-terminal:2450): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+ERROR 2015-02-12 22:13:16 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-12 22:13:16 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-12 22:13:16 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-02-12 22:21:25 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-12 22:21:25 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-12 22:21:25 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-02-12 22:28:13 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-12 22:28:13 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-12 22:28:13 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-02-12 22:42:59 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-12 22:42:59 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-12 22:42:59 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-02-12 22:48:29 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-12 22:48:29 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-12 22:48:29 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-02-13 08:41:43 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-13 08:41:43 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-13 08:41:43 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-02-13 09:14:00 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-13 09:14:00 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-13 09:14:00 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-02-13 11:17:07 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-13 11:17:07 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-13 11:17:07 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:3576): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+1423815284281	addons.xpi	WARN	Add-on webapps-team@lists.launchpad.net is missing bootstrap method install
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Error loading .desktop file /usr/share/applications/gnome-activity-log-manager-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/app-install/desktop/activity-log-manager:gnome-activity-log-manager-panel.desktop: constructor returned NULL
+ERROR 2015-02-13 16:20:05 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.
+
+(process:6157): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+1423815769054	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/en-US/firefox/api/1.5/search/guid:firefox-hotfix%40mozilla.org?src=firefox&appOS=Linux&appVersion=31.0 aMaxResults 1
+1423815769066	addons.repository	WARN	Search failed when adding add-ons to cache
+1423815769208	addons.manager	WARN	Exception calling callback: TypeError: addon is null (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/rmbpascual/.mozilla/firefox/p1mqmhjf.default/extensions/firefox-hotfix@mozilla.org.xpi!/bootstrap.js:121:4) JS Stack trace: uninstallHotfix/<@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/rmbpascual/.mozilla/firefox/p1mqmhjf.default/extensions/firefox-hotfix@bootstrap.js:121:5 < safeCall@AddonManager.jsm:166:5 < getAddonByID_noMoreObjects@AddonManager.jsm:1945:9 < AOC_callNext@AddonManager.jsm:261:7 < getAddonByID_safeCall@AddonManager.jsm:1940:13 < SocialAddonProvider.getAddonByID@SocialService.jsm:1043:5 < callProvider@AddonManager.jsm:192:5 < getAddonByID_nextObject@AddonManager.jsm:1936:1 < AOC_callNext@AddonManager.jsm:267:7 < getAddonByID_safeCall@AddonManager.jsm:1940:13 < PL_getAddon@PluginProvider.jsm:120:7 < callProvider@AddonManager.jsm:192:5 < getAddonByID_nextObject@AddonManager.jsm:1936:1 < AOC_callNext@AddonManager.jsm:267:7 < getAddonByID_safeCall@AddonManager.jsm:1940:13 < LightweightThemeManager_getAddonByID@LightweightThemeManager.jsm:363:7 < callProvider@AddonManager.jsm:192:5 < getAddonByID_nextObject@AddonManager.jsm:1936:1 < AOC_callNext@AddonManager.jsm:267:7 < getAddonByID_safeCall@AddonManager.jsm:1940:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3624:7 < makeSafe/<@XPIProviderUtils.js:146:17 < getRepositoryAddon@XPIProviderUtils.js:127:5 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1091:9 < Handler.prototype.process@Promise-backend.js:863:11 < this.PromiseWalker.walkerLoop@Promise-backend.js:742:7
+1423815772285	addons.repository	WARN	Unknown type id when parsing addon: 5
+1423815772296	addons.repository	WARN	Unknown type id when parsing addon: 5
+1423815772911	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1423815773804	addons.update-checker	WARN	Update manifest for {2e1445b0-2682-11e1-bfc2-0800200c9a66} did not contain an updates property
+1423815773833	addons.update-checker	WARN	Update manifest for webapps-team@lists.launchpad.net did not contain an updates property
+1423815773882	addons.update-checker	WARN	Update manifest for ubufox@ubuntu.com did not contain an updates property
+1423815773929	addons.update-checker	WARN	Update manifest for online-accounts@lists.launchpad.net did not contain an updates property
+ERROR 2015-02-13 16:28:03 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-02-13 16:28:03 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-02-13 16:28:03 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
